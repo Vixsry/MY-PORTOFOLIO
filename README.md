@@ -2,6 +2,7 @@
 Template website portofolio ini dirancang dengan estetika menarik dan penuh warna, ideal untuk menampilkan karya kreatif Anda. Responsif dan mudah disesuaikan, template ini memungkinkan siapa pun untuk mempresentasikan keahlian mereka secara profesional. Anda dapat menggunakan template ini untuk keperluan pribadi atau komersial.
 
 ## FITUR
+•Menu
 •Home section
 •About section
 •Button contact
