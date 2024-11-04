@@ -1,0 +1,205 @@
+/*******************/
+/* HOME CSS STYLE */
+/*****************/
+.vikri-section {
+    height: 100vh;
+    background: black center/cover no-repeat;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.vikri-section .viksry {
+   color: aqua; 
+              
+}
+
+.vikri-section span {
+    color : white;
+}
+/********************/
+/* NAVBAR CSS STYL */
+/******************/
+.navbar-toggler {
+    border-radius: 10px;
+    background: aqua;
+    color: black;
+    font-size: 20px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: white;
+}
+.navbar-toggler:hover {
+    border-radius: 15px;
+    background: aqua;
+    color: white;
+}
+.navbar-brand span {
+    color: aqua;
+} 
+
+/**********************/
+/* SOCIAL ICON STYLE */
+/********************/
+.social-icons a {
+    color: aqua;
+    margin: 0 10px;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+}
+.social-icons a:hover {
+    color: aquamarine;
+}
+
+/********************/
+/* ABOUT STYLE CSS */
+/******************/
+#about .viksry-about {
+    color: whitesmoke;
+    font-size: 15px;
+}
+
+/******************/
+/* PROJECT STYLE */
+/****************/
+.projects h2 {
+    margin-top: 2rem;
+}
+
+.project-card {
+    border-radius: 10px;
+    background: black;
+    border-color: aqua;
+    transition: transform 0.3s;
+}
+.project-card img {
+    border-radius: 10px;
+}
+
+/********************/
+/* SKILL STYLE CSS */
+/******************/
+.skill-icon {
+    font-size: 2.5rem;
+    margin: 1rem;
+    color: aqua;
+}
+/**********************/
+/* EDUKASI CSS STYLE */
+/********************/
+.education-card {
+            background: #1a1a1a;
+            border: 1px solid aqua;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        .education-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .education-year {
+            color: #00ffff;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .education-school {
+            color: white;
+            font-size: 1.25rem;
+            margin-bottom: 10px;
+        }
+
+        .education-major {
+            color: #888;
+            margin-bottom: 10px;
+        }
+
+        .education-description {
+            color: #ccc;
+            font-size: 0.9rem;
+        }
+
+        .achievement-list {
+            list-style-type: none;
+            padding-left: 0;
+            margin-top: 10px;
+        }
+
+        .achievement-list li {
+            color: #ccc;
+            margin-bottom: 5px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .achievement-list li:before {
+            content: "•";
+            color: #00ffff;
+            position: absolute;
+            left: 0;
+        }
+
+/**********************/
+/* CONTACT CSS STYLE */
+/********************/
+#contact {
+    padding: 3rem 0;
+    background-color: #000;
+    color: #fff;
+}
+#contact h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: aqua;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#contact .form-control .row {
+    background-color: #222; /* Warna latar belakang input */
+    border: 1px solid aqua; /* Border warna abu-abu */
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: 0.3rem;
+    transition: all 0.3s ease;
+}
+
+#contact .form-control:focus {
+    border-color: aqua;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 253, 170, 0.5);
+}
+
+#contact .btn {
+    font-size: 1rem;
+    font-weight: 500;
+    color: aqua;
+    border: 1px solid aqua;
+    padding: 0.75rem;
+    transition: all 0.3s ease;
+}
+
+#contact .btn:hover {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    box-shadow: 0 0 8px rgba(0, 253, 170, 0.5);
+}
+
+/******************/
+/* BTN STYLE CSS */
+/****************/
+.btn {
+    border-radius: 20px;
+    border-color: aqua;
+    color: white;
+}
+.btn:hover {
+    border-radius: 15px;
+    border-color: aquamarine;
+    color: aquamarine;
+}
