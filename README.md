@@ -2,14 +2,14 @@
 Template website portofolio ini dirancang dengan estetika menarik dan penuh warna, ideal untuk menampilkan karya kreatif Anda. Responsif dan mudah disesuaikan, template ini memungkinkan siapa pun untuk mempresentasikan keahlian mereka secara profesional. Anda dapat menggunakan template ini untuk keperluan pribadi atau komersial.
 
 ## FITUR
-HOME SECTION
-ABOUT ME SECTION
-BUTTON CONTACT
-PROJECT SECTION
-SKILL SECTION
-CONTACT SECTION
-FOOTER SECTION
-LINK SOCIAL MEDIA
+•Home section
+•About section
+•Button contact
+•Project section
+•Skill section
+•Contact section
+•Footer section
+•Link social media
 
 ## ELEMENT YANG DI GUNAKAN DALAM DESAIN
 Font Awesome
