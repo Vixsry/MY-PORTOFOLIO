@@ -194,13 +194,13 @@
 /* BTN STYLE CSS */
 /****************/
 .btn {
-    width: 80%;
+    width: 50%;
     border-radius: 20px;
     border-color: aqua;
     color: white;
 }
 .btn:hover {
-    width: 80%;
+    width: 50%;
     border-radius: 15px;
     border-color: aquamarine;
     color: aquamarine;
